@@ -3,4 +3,4 @@ repositorio de aprendizagem git
 
 
 
-uam qualquer trapalhada!
+uma qualquer trapalhada!
